@@ -1,0 +1,171 @@
+body{
+    background-image: url(rsz_pexels-mihir-korals-2519175.jpg);
+    background-size: auto;
+}
+h1{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+div.meInfo{
+    margin: 0 auto;
+    width: 435px;
+}
+h3.info{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div.info{
+    display: inline-block;
+    width: 200px;
+    height: 253px;
+    margin: 4px 4px 4px 2px;
+    background-color: white;
+    padding: 5px;
+    border: 3px solid white;
+    border-radius: 10px;
+    vertical-align: top;
+}
+ul.info{
+    list-style: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div.me{
+    display: inline-block;
+    padding: 5px;
+    margin: 4px 2px 4px 4px;
+    border: 3px solid white;
+    border-radius: 10px;
+    background-color: white;
+}
+img.me{
+    height: 250px;
+}
+span{
+    color: goldenrod;
+    font-weight: bold;
+}
+div.games{
+    height: 150px;
+    width: 420px;
+    padding: 5px;
+    border: 3px solid white;
+    border-radius: 10px;
+    margin: 4px auto 4px auto;
+}
+.games{
+    color: white;
+    list-style: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    margin: 4px;
+}
+div.likesDislikes{
+    background-color: white;
+    height: 150px;
+    width: 415px;
+    padding: 5px;
+    border: 3px solid white;
+    border-radius: 10px;
+    margin: 4px auto 4px auto;
+}
+div.likes{
+    display: inline-block;
+    width: 200px;
+}
+h3.likes{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ul.likes{
+    list-style: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div.dislikes{
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+}
+h3.dislikes{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ul.dislikes{
+    list-style: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div.pets{
+    width: 450px;
+    margin: 4px auto 4px auto;
+}
+h3.pets{
+    width: 425px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 10px;
+    margin: 4px auto 4px auto;
+}
+p.pets{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+    border: 3px solid white;
+    border-radius: 10px;
+    width: 200px;
+    margin: 4px auto 4px auto;
+}
+div.Raaf{
+    display: inline-block;
+    margin: 2px;
+}
+div.Otter{
+    display: inline-block;
+    margin: 2px;
+}
+img.Raaf{
+    width: 200px;
+    margin-left: 4px;
+    padding: 5px;
+    border: 3px solid white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: white;
+}
+img.Otter{
+    width: 200px;
+    padding: 5px;
+    border: 3px solid white;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: white;
+}
+div.retail{
+    width: 430px;
+    height: 220px;
+    padding: 5px;
+    border: 3px solid white;
+    border-radius: 10px;
+    margin: 4px;
+    margin: 0 auto;
+
+}
+h3.retail{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+p.retail{
+    padding: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-weight: 500;
+}
+div.links{
+    width: 435px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.arrow{
+    color: white;
+    font-size: large;
+}
